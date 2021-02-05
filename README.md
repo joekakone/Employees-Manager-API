@@ -1,3 +1,3 @@
-!(employees-schema.png)
+![Image](employees-schema.png)
 # Employees Manager API
 This is the backend of the Employees Manager
