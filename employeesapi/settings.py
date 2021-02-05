@@ -29,7 +29,7 @@ SECRET_KEY = '7zp+itfpw-hhfbc-h-_g5_!dbri90qco3dx#7_1*5eqlwym^tq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1:8000', 'localhost', 'employees-manager-api-jk.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'employees-manager-api-jk.herokuapp.com']
 
 
 # Application definition
