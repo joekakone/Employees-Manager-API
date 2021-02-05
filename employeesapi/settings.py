@@ -132,9 +132,9 @@ STATIC_URL = '/static/'
 
 MEDIA_URL = '/media/'
 
-STATIC_ROOT = os.path.join(BASE_DIR, 'exchange', 'static/')
+STATIC_ROOT = os.path.join(BASE_DIR, 'employeesapi', 'static/')
 
-MEDIA_ROOT = os.path.join(BASE_DIR, 'exchange', 'media/')
+MEDIA_ROOT = os.path.join(BASE_DIR, 'employeesapi', 'media/')
 
 
 # for prod
